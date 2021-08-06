@@ -1,3 +1,3 @@
 # sesion2-github
 
-esto es un readmi
+esto es un readmia
